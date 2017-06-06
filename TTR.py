@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Tue May 16 16:33:30 2017
-@author: Alex Orion
+@author: https://github.com/Quantmatic/
 """
 import math
 import pandas as pd
